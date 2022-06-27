@@ -5,7 +5,7 @@
 <link rel="stylesheet" href="Lab9CDShop\LabCSS\mystyle.css"> 
 </head>
 <header>
-    <h1><img src="LabCSS\musicicon.png" style="width: 30px; height:30px;">
+    <h1><img src="Lab9CDShop\LabCSS\musicicon.png" style="width: 30px; height:30px;">
     Merdu Music CD Shop
     <a href="#cart" style="float: right; text-decoration: none;">Shopping Cart</a>
     <img src="https://i.pinimg.com/originals/15/4f/df/154fdf2f2759676a96e9aed653082276.png" style="width: 30px; height:30px; float: right;" >
