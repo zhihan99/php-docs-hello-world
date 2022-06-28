@@ -32,11 +32,11 @@
     <table style="width: 100%; table-layout: fixed;">
         <tr>
             <td>
-                <img src="https://static.wikia.nocookie.net/onedirection/images/7/75/Singlewmyb.png/revision/latest?cb=20180126230753" style="width: 300px; height:300px;" ><br>
+                <img src="https://upload.wikimedia.org/wikipedia/en/9/96/One_direction_up_all_night_albumcover.jpg" style="width: 300px; height:300px;" ><br>
                 <a href="OneDirection.html">One Direction - Up All Night</a>
             </td>
             <td>
-                <img src="https://static.wikia.nocookie.net/ladygaga/images/7/75/TheFame.jpg/revision/latest/scale-to-width-down/2000?cb=20110410191050" style="width: 300px; height:300px;" ><br>
+                <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/Lady_Gaga_%E2%80%93_The_Fame_album_cover.png" style="width: 300px; height:300px;" ><br>
                 <a href="LadyGaga.html">The Fame - Lady Gaga</a>
             </td>
             <td>
