@@ -68,11 +68,11 @@
 </body>
 <footer>
     <ul>
-            <li><a href="CDShop.html">Home</a></li>
-            <li><a href="CDList">CDs</a></li>
+            <li><a href="CDShop.php">Home</a></li>
+            <li><a href="CDList.php">CDs</a></li>
             <li><a href="#events">Events</a></li>
             <li><a href="#about">About</a></li>
-            <li><a href="registration.html">Register</a></li>
+            <li><a href="registration.php">Register</a></li>
     </ul>
 </footer>
 </html>
