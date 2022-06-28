@@ -41,7 +41,7 @@
                 <a href="Lab9CDShop\BTS.php">BTS - Map of the Soul: 7</a>
             </td>
             <td>
-                <img src="https://static.wikia.nocookie.net/ladygaga/images/7/75/TheFame.jpg/revision/latest/scale-to-width-down/2000?cb=20110410191050" style="width: 300px; height:300px;" ><br>
+                <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/Lady_Gaga_%E2%80%93_The_Fame_album_cover.png" style="width: 300px; height:300px;" ><br>
                 <a href="Lab9CDShop\LadyGaga.php">The Fame - Lady Gaga</a>
             </td>
         </tr>
@@ -56,7 +56,7 @@
             </td>
             <td>
                 <br>
-                <img src="https://static.wikia.nocookie.net/finalfantasy/images/a/ab/Final_Fantasy_VII_Remake_Original_Soundtrack_Cover.jpg/revision/latest?cb=20200527013722" style="width: 300px; height:300px;" ><br>
+                <img src="https://m.media-amazon.com/images/I/510iYglagLS._SS500_.jpg" style="width: 300px; height:300px;" ><br>
                 <a href="Lab9CDShop\FF7.php">Final Fantasy VII Remake Original Soundtrack</a>
             </td>
             <td>
