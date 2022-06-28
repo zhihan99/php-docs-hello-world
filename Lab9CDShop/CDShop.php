@@ -14,7 +14,7 @@
         <a class="active" href="CDShop.php">Home</a>
         <a href="CDList.php">CDs</a>
         <a href="#events">Events</a>
-        <a href="#about">About Us</a>
+        <a href="#about">About</a>
         <a href="registration.php">Register</a>
     </div>
 </header>
