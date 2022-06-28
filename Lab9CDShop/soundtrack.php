@@ -32,7 +32,7 @@
     <table style="width: 100%; table-layout: fixed;">
         <tr>
             <td>
-                <img src="https://static.wikia.nocookie.net/finalfantasy/images/a/ab/Final_Fantasy_VII_Remake_Original_Soundtrack_Cover.jpg/revision/latest?cb=20200527013722" style="width: 300px; height:300px;" ><br>
+                <img src="https://m.media-amazon.com/images/I/510iYglagLS._SS500_.jpg" style="width: 300px; height:300px;" ><br>
                 <a href="FF7.html">Final Fantasy VII Remake Original Soundtrack</a>
             </td>
             <td>
